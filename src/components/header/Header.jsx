@@ -8,4 +8,4 @@ export const Header = () => {
       <div>account</div>
     </div>
   </div>
-}
+};
