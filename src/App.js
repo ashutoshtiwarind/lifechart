@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <Header />
-      life chart
+      life chart project
     </div>
   );
 }
