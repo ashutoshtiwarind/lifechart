@@ -1,0 +1,6 @@
+.header-main {
+  display: flex;
+  background-color: teal;
+  justify-content: space-between;
+  height: 50px;
+}
